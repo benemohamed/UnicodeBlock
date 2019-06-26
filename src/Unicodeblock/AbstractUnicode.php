@@ -21,7 +21,7 @@
  */
 
  /**
- *
+ * abstract
  */
 abstract class AbstractUnicode
 {

@@ -1,5 +1,7 @@
 ## Unicode block checker
 
+Check if the string is in some  block with full block Character
+
 ## Requirements
 -  PHP >= 7.0
 -  JSON PHP mbstring
@@ -78,7 +80,7 @@ var_dump(get_class_methods(UnicodeBlock::class));
 
 ```
 > Supported all Unicode Block
-> Total Block 280
+> Total Block and methods is: 280
 
 ## Data
 data Unicode blocks[Source](https://wiki.contextgarden.net/List_of_Unicode_blocks)
