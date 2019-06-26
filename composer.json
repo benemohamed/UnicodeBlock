@@ -1,6 +1,6 @@
 {
     "name": "benemohamed/unicodeblock",
-    "description": "Unicode block checker",
+    "description": "Unicode block checker Check if the string is in some Unicode block with full block Character and block {form..to} , Unicode name",
     "keywords": ["Unicode", "Detect", "Table", "language", "Character"],
     "type": "library",
     "license": "MIT",
