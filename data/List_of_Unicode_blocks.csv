@@ -1,0 +1,281 @@
+Block1,Block2,Unicode,ConTeXt name,Chart
+0000,007F,Basic Latin,basiclatin,U0000.pdf
+0080,00FF,Latin-1 Supplement,latinsupplement,U0080.pdf
+0100,017F,Latin Extended-A,latinextendeda,U0100.pdf
+0180,024F,Latin Extended-B,latinextendedb,U0180.pdf
+0250,02AF,IPA Extensions,ipaextensions,U0250.pdf
+02B0,02FF,Spacing Modifier Letters,spacingmodifierletters,U02B0.pdf
+0300,036F,Combining Diacritical Marks,combiningdiacriticalmarks,U0300.pdf
+0370,03FF,Greek and Coptic,greekandcoptic,U0370.pdf
+0400,04FF,Cyrillic,cyrillic,U0400.pdf
+0500,052F,Cyrillic Supplement,cyrillicsupplement,U0500.pdf
+0530,058F,Armenian,armenian,U0530.pdf
+0590,05FF,Hebrew,hebrew,U0590.pdf
+0600,06FF,Arabic,arabic,U0600.pdf
+0700,074F,Syriac,syriac,U0700.pdf
+0750,077F,Arabic Supplement,arabicsupplement,U0750.pdf
+0780,07BF,Thaana,thaana,U0780.pdf
+07C0,07FF,NKo,nko,U07C0.pdf
+0800,083F,Samaritan,samaritan,U0800.pdf
+0840,085F,Mandaic,mandaic,U0840.pdf
+0860,086F,Syriac Supplement,syriacsupplement,U0860.pdf
+08A0,08FF,Arabic Extended-A,arabicextendeda,U08A0.pdf
+0900,097F,Devanagari,devanagari,U0900.pdf
+0980,09FF,Bengali,bengali,U0980.pdf
+0A00,0A7F,Gurmukhi,gurmukhi,U0A00.pdf
+0A80,0AFF,Gujarati,gujarati,U0A80.pdf
+0B00,0B7F,Oriya,oriya,U0B00.pdf
+0B80,0BFF,Tamil,tamil,U0B80.pdf
+0C00,0C7F,Telugu,telugu,U0C00.pdf
+0C80,0CFF,Kannada,kannada,U0C80.pdf
+0D00,0D7F,Malayalam,malayalam,U0D00.pdf
+0D80,0DFF,Sinhala,sinhala,U0D80.pdf
+0E00,0E7F,Thai,thai,U0E00.pdf
+0E80,0EFF,Lao,lao,U0E80.pdf
+0F00,0FFF,Tibetan,tibetan,U0F00.pdf
+1000,109F,Myanmar,myanmar,U1000.pdf
+10A0,10FF,Georgian,georgian,U10A0.pdf
+1100,11FF,Hangul Jamo,hanguljamo,U1100.pdf
+1200,137F,Ethiopic,ethiopic,U1200.pdf
+1380,139F,Ethiopic Supplement,ethiopicsupplement,U1380.pdf
+13A0,13FF,Cherokee,cherokee,U13A0.pdf
+1400,167F,Unified Canadian Aboriginal Syllabics,unifiedcanadianaboriginalsyllabics,U1400.pdf
+1680,169F,Ogham,ogham,U1680.pdf
+16A0,16FF,Runic,runic,U16A0.pdf
+1700,171F,Tagalog,tagalog,U1700.pdf
+1720,173F,Hanunoo,hanunoo,U1720.pdf
+1740,175F,Buhid,buhid,U1740.pdf
+1760,177F,Tagbanwa,tagbanwa,U1760.pdf
+1780,17FF,Khmer,khmer,U1780.pdf
+1800,18AF,Mongolian,mongolian,U1800.pdf
+18B0,18FF,Unified Canadian Aboriginal Syllabics Extended,unifiedcanadianaboriginalsyllabicsextended,U18B0.pdf
+1900,194F,Limbu,limbu,U1900.pdf
+1950,197F,Tai Le,taile,U1950.pdf
+1980,19DF,New Tai Lue,newtailue,U1980.pdf
+19E0,19FF,Khmer Symbols,khmersymbols,U19E0.pdf
+1A00,1A1F,Buginese,buginese,U1A00.pdf
+1A20,1AAF,Tai Tham,taitham,U1A20.pdf
+1AB0,1AFF,Combining Diacritical Marks Extended,combiningdiacriticalmarksextended,U1AB0.pdf
+1B00,1B7F,Balinese,balinese,U1B00.pdf
+1B80,1BBF,Sundanese,sundanese,U1B80.pdf
+1BC0,1BFF,Batak,batak,U1BC0.pdf
+1C00,1C4F,Lepcha,lepcha,U1C00.pdf
+1C50,1C7F,Ol Chiki,olchiki,U1C50.pdf
+1C80,1C8F,Cyrillic Extended-C,cyrillicextendedc,U1C80.pdf
+1CC0,1CCF,Sundanese Supplement,sundanesesupplement,U1CC0.pdf
+1CD0,1CFF,Vedic Extensions,vedicextensions,U1CD0.pdf
+1D00,1D7F,Phonetic Extensions,phoneticextensions,U1D00.pdf
+1D80,1DBF,Phonetic Extensions Supplement,phoneticextensionssupplement,U1D80.pdf
+1DC0,1DFF,Combining Diacritical Marks Supplement,combiningdiacriticalmarkssupplement,U1DC0.pdf
+1E00,1EFF,Latin Extended Additional,latinextendedadditional,U1E00.pdf
+1F00,1FFF,Greek Extended,greekextended,U1F00.pdf
+2000,206F,General Punctuation,generalpunctuation,U2000.pdf
+2070,209F,Superscripts and Subscripts,superscriptsandsubscripts,U2070.pdf
+20A0,20CF,Currency Symbols,currencysymbols,U20A0.pdf
+20D0,20FF,Combining Diacritical Marks for Symbols,combiningdiacriticalmarksforsymbols,U20D0.pdf
+2100,214F,Letterlike Symbols,letterlikesymbols,U2100.pdf
+2150,218F,Number Forms,numberforms,U2150.pdf
+2190,21FF,Arrows,arrows,U2190.pdf
+2200,22FF,Mathematical Operators,mathematicaloperators,U2200.pdf
+2300,23FF,Miscellaneous Technical,miscellaneoustechnical,U2300.pdf
+2400,243F,Control Pictures,controlpictures,U2400.pdf
+2440,245F,Optical Character Recognition,opticalcharacterrecognition,U2440.pdf
+2460,24FF,Enclosed Alphanumerics,enclosedalphanumerics,U2460.pdf
+2500,257F,Box Drawing,boxdrawing,U2500.pdf
+2580,259F,Block Elements,blockelements,U2580.pdf
+25A0,25FF,Geometric Shapes,geometricshapes,U25A0.pdf
+2600,26FF,Miscellaneous Symbols,miscellaneoussymbols,U2600.pdf
+2700,27BF,Dingbats,dingbats,U2700.pdf
+27C0,27EF,Miscellaneous Mathematical Symbols-A,miscellaneousmathematicalsymbolsa,U27C0.pdf
+27F0,27FF,Supplemental Arrows-A,supplementalarrowsa,U27F0.pdf
+2800,28FF,Braille Patterns,braillepatterns,U2800.pdf
+2900,297F,Supplemental Arrows-B,supplementalarrowsb,U2900.pdf
+2980,29FF,Miscellaneous Mathematical Symbols-B,miscellaneousmathematicalsymbolsb,U2980.pdf
+2A00,2AFF,Supplemental Mathematical Operators,supplementalmathematicaloperators,U2A00.pdf
+2B00,2BFF,Miscellaneous Symbols and Arrows,miscellaneoussymbolsandarrows,U2B00.pdf
+2C00,2C5F,Glagolitic,glagolitic,U2C00.pdf
+2C60,2C7F,Latin Extended-C,latinextendedc,U2C60.pdf
+2C80,2CFF,Coptic,coptic,U2C80.pdf
+2D00,2D2F,Georgian Supplement,georgiansupplement,U2D00.pdf
+2D30,2D7F,Tifinagh,tifinagh,U2D30.pdf
+2D80,2DDF,Ethiopic Extended,ethiopicextended,U2D80.pdf
+2DE0,2DFF,Cyrillic Extended-A,cyrillicextendeda,U2DE0.pdf
+2E00,2E7F,Supplemental Punctuation,supplementalpunctuation,U2E00.pdf
+2E80,2EFF,CJK Radicals Supplement,cjkradicalssupplement,U2E80.pdf
+2F00,2FDF,Kangxi Radicals,kangxiradicals,U2F00.pdf
+2FF0,2FFF,Ideographic Description Characters,ideographicdescriptioncharacters,U2FF0.pdf
+3000,303F,CJK Symbols and Punctuation,cjksymbolsandpunctuation,U3000.pdf
+3040,309F,Hiragana,hiragana,U3040.pdf
+30A0,30FF,Katakana,katakana,U30A0.pdf
+3100,312F,Bopomofo,bopomofo,U3100.pdf
+3130,318F,Hangul Compatibility Jamo,hangulcompatibilityjamo,U3130.pdf
+3190,319F,Kanbun,kanbun,U3190.pdf
+31A0,31BF,Bopomofo Extended,bopomofoextended,U31A0.pdf
+31C0,31EF,CJK Strokes,cjkstrokes,U31C0.pdf
+31F0,31FF,Katakana Phonetic Extensions,katakanaphoneticextensions,U31F0.pdf
+3200,32FF,Enclosed CJK Letters and Months,enclosedcjklettersandmonths,U3200.pdf
+3300,33FF,CJK Compatibility,cjkcompatibility,U3300.pdf
+3400,4DBF,CJK Unified Ideographs Extension A,cjkunifiedideographsextensiona,U3400.pdf
+4DC0,4DFF,Yijing Hexagram Symbols,yijinghexagramsymbols,U4DC0.pdf
+4E00,9FFF,CJK Unified Ideographs,cjkunifiedideographs,U4E00.pdf
+A000,A48F,Yi Syllables,yisyllables,UA000.pdf
+A490,A4CF,Yi Radicals,yiradicals,UA490.pdf
+A4D0,A4FF,Lisu,lisu,UA4D0.pdf
+A500,A63F,Vai,vai,UA500.pdf
+A640,A69F,Cyrillic Extended-B,cyrillicextendedb,UA640.pdf
+A6A0,A6FF,Bamum,bamum,UA6A0.pdf
+A700,A71F,Modifier Tone Letters,modifiertoneletters,UA700.pdf
+A720,A7FF,Latin Extended-D,latinextendedd,UA720.pdf
+A800,A82F,Syloti Nagri,sylotinagri,UA800.pdf
+A830,A83F,Common Indic Number Forms,commonindicnumberforms,UA830.pdf
+A840,A87F,Phags-pa,phagspa,UA840.pdf
+A880,A8DF,Saurashtra,saurashtra,UA880.pdf
+A8E0,A8FF,Devanagari Extended,devanagariextended,UA8E0.pdf
+A900,A92F,Kayah Li,kayahli,UA900.pdf
+A930,A95F,Rejang,rejang,UA930.pdf
+A960,A97F,Hangul Jamo Extended-A,hanguljamoextendeda,UA960.pdf
+A980,A9DF,Javanese,javanese,UA980.pdf
+A9E0,A9FF,Myanmar Extended-B,myanmarextendedb,UA9E0.pdf
+AA00,AA5F,Cham,cham,UAA00.pdf
+AA60,AA7F,Myanmar Extended-A,myanmarextendeda,UAA60.pdf
+AA80,AADF,Tai Viet,taiviet,UAA80.pdf
+AAE0,AAFF,Meetei Mayek Extensions,meeteimayekextensions,UAAE0.pdf
+AB00,AB2F,Ethiopic Extended-A,ethiopicextendeda,UAB00.pdf
+AB30,AB6F,Latin Extended-E,latinextendede,UAB30.pdf
+AB70,ABBF,Cherokee Supplement,cherokeesupplement,UAB70.pdf
+ABC0,ABFF,Meetei Mayek,meeteimayek,UABC0.pdf
+AC00,D7AF,Hangul Syllables,hangulsyllables,UAC00.pdf
+D7B0,D7FF,Hangul Jamo Extended-B,hanguljamoextendedb,UD7B0.pdf
+D800,DB7F,High Surrogates,highsurrogates,UD800.pdf
+DB80,DBFF,High Private Use Surrogates,highprivateusesurrogates,UDB80.pdf
+DC00,DFFF,Low Surrogates,lowsurrogates,UDC00.pdf
+E000,F8FF,Private Use Area,privateusearea,UE000.pdf
+F900,FAFF,CJK Compatibility Ideographs,cjkcompatibilityideographs,UF900.pdf
+FB00,FB4F,Alphabetic Presentation Forms,alphabeticpresentationforms,UFB00.pdf
+FB50,FDFF,Arabic Presentation Forms-A,arabicpresentationformsa,UFB50.pdf
+FE00,FE0F,Variation Selectors,variationselectors,UFE00.pdf
+FE10,FE1F,Vertical Forms,verticalforms,UFE10.pdf
+FE20,FE2F,Combining Half Marks,combininghalfmarks,UFE20.pdf
+FE30,FE4F,CJK Compatibility Forms,cjkcompatibilityforms,UFE30.pdf
+FE50,FE6F,Small Form Variants,smallformvariants,UFE50.pdf
+FE70,FEFF,Arabic Presentation Forms-B,arabicpresentationformsb,UFE70.pdf
+FF00,FFEF,Halfwidth and Fullwidth Forms,halfwidthandfullwidthforms,UFF00.pdf
+FFF0,FFFF,Specials,specials,UFFF0.pdf
+10000,1007F,Linear B Syllabary,linearbsyllabary,U10000.pdf
+10080,100FF,Linear B Ideograms,linearbideograms,U10080.pdf
+10100,1013F,Aegean Numbers,aegeannumbers,U10100.pdf
+10140,1018F,Ancient Greek Numbers,ancientgreeknumbers,U10140.pdf
+10190,101CF,Ancient Symbols,ancientsymbols,U10190.pdf
+101D0,101FF,Phaistos Disc,phaistosdisc,U101D0.pdf
+10280,1029F,Lycian,lycian,U10280.pdf
+102A0,102DF,Carian,carian,U102A0.pdf
+102E0,102FF,Coptic Epact Numbers,copticepactnumbers,U102E0.pdf
+10300,1032F,Old Italic,olditalic,U10300.pdf
+10330,1034F,Gothic,gothic,U10330.pdf
+10350,1037F,Old Permic,oldpermic,U10350.pdf
+10380,1039F,Ugaritic,ugaritic,U10380.pdf
+103A0,103DF,Old Persian,oldpersian,U103A0.pdf
+10400,1044F,Deseret,deseret,U10400.pdf
+10450,1047F,Shavian,shavian,U10450.pdf
+10480,104AF,Osmanya,osmanya,U10480.pdf
+104B0,104FF,Osage,osage,U104B0.pdf
+10500,1052F,Elbasan,elbasan,U10500.pdf
+10530,1056F,Caucasian Albanian,caucasianalbanian,U10530.pdf
+10600,1077F,Linear A,lineara,U10600.pdf
+10800,1083F,Cypriot Syllabary,cypriotsyllabary,U10800.pdf
+10840,1085F,Imperial Aramaic,imperialaramaic,U10840.pdf
+10860,1087F,Palmyrene,palmyrene,U10860.pdf
+10880,108AF,Nabataean,nabataean,U10880.pdf
+108E0,108FF,Hatran,hatran,U108E0.pdf
+10900,1091F,Phoenician,phoenician,U10900.pdf
+10920,1093F,Lydian,lydian,U10920.pdf
+10980,1099F,Meroitic Hieroglyphs,meroitichieroglyphs,U10980.pdf
+109A0,109FF,Meroitic Cursive,meroiticcursive,U109A0.pdf
+10A00,10A5F,Kharoshthi,kharoshthi,U10A00.pdf
+10A60,10A7F,Old South Arabian,oldsoutharabian,U10A60.pdf
+10A80,10A9F,Old North Arabian,oldnortharabian,U10A80.pdf
+10AC0,10AFF,Manichaean,manichaean,U10AC0.pdf
+10B00,10B3F,Avestan,avestan,U10B00.pdf
+10B40,10B5F,Inscriptional Parthian,inscriptionalparthian,U10B40.pdf
+10B60,10B7F,Inscriptional Pahlavi,inscriptionalpahlavi,U10B60.pdf
+10B80,10BAF,Psalter Pahlavi,psalterpahlavi,U10B80.pdf
+10C00,10C4F,Old Turkic,oldturkic,U10C00.pdf
+10C80,10CFF,Old Hungarian,oldhungarian,U10C80.pdf
+10E60,10E7F,Rumi Numeral Symbols,ruminumeralsymbols,U10E60.pdf
+11000,1107F,Brahmi,brahmi,U11000.pdf
+11080,110CF,Kaithi,kaithi,U11080.pdf
+110D0,110FF,Sora Sompeng,sorasompeng,U110D0.pdf
+11100,1114F,Chakma,chakma,U11100.pdf
+11150,1117F,Mahajani,mahajani,U11150.pdf
+11180,111DF,Sharada,sharada,U11180.pdf
+111E0,111FF,Sinhala Archaic Numbers,sinhalaarchaicnumbers,U111E0.pdf
+11200,1124F,Khojki,khojki,U11200.pdf
+11280,112AF,Multani,multani,U11280.pdf
+112B0,112FF,Khudawadi,khudawadi,U112B0.pdf
+11300,1137F,Grantha,grantha,U11300.pdf
+11400,1147F,Newa,newa,U11400.pdf
+11480,114DF,Tirhuta,tirhuta,U11480.pdf
+11580,115FF,Siddham,siddham,U11580.pdf
+11600,1165F,Modi,modi,U11600.pdf
+11660,1167F,Mongolian Supplement,mongoliansupplement,U11660.pdf
+11680,116CF,Takri,takri,U11680.pdf
+11700,1173F,Ahom,ahom,U11700.pdf
+118A0,118FF,Warang Citi,warangciti,U118A0.pdf
+11A00,11A4F,Zanabazar Square,zanabazarsquare,U11A00.pdf
+11A50,11AAF,Soyombo,soyombo,U11A50.pdf
+11AC0,11AFF,Pau Cin Hau,paucinhau,U11AC0.pdf
+11C00,11C6F,Bhaiksuki,bhaiksuki,U11C00.pdf
+11C70,11CBF,Marchen,marchen,U11C70.pdf
+11D00,11D5F,Masaram Gondi,masaramgondi,U11D00.pdf
+12000,123FF,Cuneiform,cuneiform,U12000.pdf
+12400,1247F,Cuneiform Numbers and Punctuation,cuneiformnumbersandpunctuation,U12400.pdf
+12480,1254F,Early Dynastic Cuneiform,earlydynasticcuneiform,U12480.pdf
+13000,1342F,Egyptian Hieroglyphs,egyptianhieroglyphs,U13000.pdf
+14400,1467F,Anatolian Hieroglyphs,anatolianhieroglyphs,U14400.pdf
+16800,16A3F,Bamum Supplement,bamumsupplement,U16800.pdf
+16A40,16A6F,Mro,mro,U16A40.pdf
+16AD0,16AFF,Bassa Vah,bassavah,U16AD0.pdf
+16B00,16B8F,Pahawh Hmong,pahawhhmong,U16B00.pdf
+16F00,16F9F,Miao,miao,U16F00.pdf
+16FE0,16FFF,Ideographic Symbols and Punctuation,ideographicsymbolsandpunctuation,U16FE0.pdf
+17000,187FF,Tangut,tangut,U17000.pdf
+18800,18AFF,Tangut Components,tangutcomponents,U18800.pdf
+1B000,1B0FF,Kana Supplement,kanasupplement,U1B000.pdf
+1B100,1B12F,Kana Extended-A,kanaextendeda,U1B100.pdf
+1B170,1B2FF,Nushu,nushu,U1B170.pdf
+1BC00,1BC9F,Duployan,duployan,U1BC00.pdf
+1BCA0,1BCAF,Shorthand Format Controls,shorthandformatcontrols,U1BCA0.pdf
+1D000,1D0FF,Byzantine Musical Symbols,byzantinemusicalsymbols,U1D000.pdf
+1D100,1D1FF,Musical Symbols,musicalsymbols,U1D100.pdf
+1D200,1D24F,Ancient Greek Musical Notation,ancientgreekmusicalnotation,U1D200.pdf
+1D300,1D35F,Tai Xuan Jing Symbols,taixuanjingsymbols,U1D300.pdf
+1D360,1D37F,Counting Rod Numerals,countingrodnumerals,U1D360.pdf
+1D400,1D7FF,Mathematical Alphanumeric Symbols,mathematicalalphanumericsymbols,U1D400.pdf
+1D800,1DAAF,Sutton SignWriting,suttonsignwriting,U1D800.pdf
+1E000,1E02F,Glagolitic Supplement,glagoliticsupplement,U1E000.pdf
+1E800,1E8DF,Mende Kikakui,mendekikakui,U1E800.pdf
+1E900,1E95F,Adlam,adlam,U1E900.pdf
+1EE00,1EEFF,Arabic Mathematical Alphabetic Symbols,arabicmathematicalalphabeticsymbols,U1EE00.pdf
+1F000,1F02F,Mahjong Tiles,mahjongtiles,U1F000.pdf
+1F030,1F09F,Domino Tiles,dominotiles,U1F030.pdf
+1F0A0,1F0FF,Playing Cards,playingcards,U1F0A0.pdf
+1F100,1F1FF,Enclosed Alphanumeric Supplement,enclosedalphanumericsupplement,U1F100.pdf
+1F200,1F2FF,Enclosed Ideographic Supplement,enclosedideographicsupplement,U1F200.pdf
+1F300,1F5FF,Miscellaneous Symbols and Pictographs,miscellaneoussymbolsandpictographs,U1F300.pdf
+1F600,1F64F,Emoticons,emoticons,U1F600.pdf
+1F650,1F67F,Ornamental Dingbats,ornamentaldingbats,U1F650.pdf
+1F680,1F6FF,Transport and Map Symbols,transportandmapsymbols,U1F680.pdf
+1F700,1F77F,Alchemical Symbols,alchemicalsymbols,U1F700.pdf
+1F780,1F7FF,Geometric Shapes Extended,geometricshapesextended,U1F780.pdf
+1F800,1F8FF,Supplemental Arrows-C,supplementalarrowsc,U1F800.pdf
+1F900,1F9FF,Supplemental Symbols and Pictographs,supplementalsymbolsandpictographs,U1F900.pdf
+20000,2A6DF,CJK Unified Ideographs Extension B,cjkunifiedideographsextensionb,U20000.pdf
+2A700,2B73F,CJK Unified Ideographs Extension C,cjkunifiedideographsextensionc,U2A700.pdf
+2B740,2B81F,CJK Unified Ideographs Extension D,cjkunifiedideographsextensiond,U2B740.pdf
+2B820,2CEAF,CJK Unified Ideographs Extension E,cjkunifiedideographsextensione,U2B820.pdf
+2CEB0,2EBEF,CJK Unified Ideographs Extension F,cjkunifiedideographsextensionf,U2CEB0.pdf
+2F800,2FA1F,CJK Compatibility Ideographs Supplement,cjkcompatibilityideographssupplement,U2F800.pdf
+E0000,E007F,Tags,tags,UE0000.pdf
+E0100,E01EF,Variation Selectors Supplement,variationselectorssupplement,UE0100.pdf
+F0000,FFFFF,Supplementary Private Use Area-A,supplementaryprivateuseareaa,UF0000.pdf
+100000,10FFFF,Supplementary Private Use Area-B,supplementaryprivateuseareab
