@@ -1,6 +1,6 @@
 ## Unicode block checker
 
-Check if the string is in some  block with full block Character
+Check if the string is in some Unicode block with full block Character and block {form..to} , Unicode name
 
 ## Requirements
 -  PHP >= 7.0
@@ -80,9 +80,21 @@ var_dump(get_class_methods(UnicodeBlock::class));
 
 ```
 > Supported all Unicode Block
+
 > Total Block and methods is: 280
 
-## Data
-data Unicode blocks[Source](https://wiki.contextgarden.net/List_of_Unicode_blocks)
+## Running the tests
 
-https://www.php.net/manual/en/mbstring.supported-encodings.php
+```bash
+composer test
+```
+
+## Data
+data Unicode blocks [Source](https://wiki.contextgarden.net/List_of_Unicode_blocks)
+
+
+
+## Acknowledgments
+
+[GNOME Character Map](https://wiki.gnome.org/Apps/Gucharmap)
+[mbstring encodings](https://www.php.net/manual/en/mbstring.supported-encodings.php)
