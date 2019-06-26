@@ -1,5 +1,5 @@
 {
-    "name": "benemohamed/Unicodeblock",
+    "name": "benemohamed/unicodeblock",
     "description": "Unicode block checker",
     "keywords": ["Unicode", "Detect", "Table", "language", "Character"],
     "type": "library",
