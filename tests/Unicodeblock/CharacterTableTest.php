@@ -1,7 +1,7 @@
 <?php
 namespace Benemohamed\Test\CharacterTable;
 
-use Benemohamed\CharacterTable;
+use Benemohamed\Unicodeblock\CharacterTable;
 
 use PHPUnit\Framework\TestCase;
 

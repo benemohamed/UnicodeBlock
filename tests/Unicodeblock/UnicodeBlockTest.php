@@ -1,7 +1,7 @@
 <?php
 namespace Benemohamed\Test\UnicodeBlock;
 
-use Benemohamed\UnicodeBlock;
+use Benemohamed\Unicodeblock\UnicodeBlock;
 
 use PHPUnit\Framework\TestCase;
 
