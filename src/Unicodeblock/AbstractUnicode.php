@@ -1,4 +1,4 @@
-<?php namespace Benemohamed;
+<?php namespace Benemohamed\Unicodeblock;
 
 /*
  * Copyright 2019 Mohamed Benrebia <mohamed@ipfinder.io>

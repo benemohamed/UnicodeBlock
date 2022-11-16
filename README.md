@@ -16,7 +16,7 @@ composer require benemohamed/Unicodeblock
 ```php
 <?php
 // Import Unicodeblock
-use Benemohamed\UnicodeBlock;
+use Benemohamed\Unicodeblock\UnicodeBlock;
 
 var_dump(UnicodeBlock::Arabic('يبيسب'));
 
@@ -74,7 +74,7 @@ var_dump(UnicodeBlock::Arabic('يبيسب'));
 
 ```php
 <?php
-use Benemohamed\UnicodeBlock;
+use Benemohamed\Unicodeblock\UnicodeBlock;
 
 var_dump(get_class_methods(UnicodeBlock::class));
 
